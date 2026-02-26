@@ -1,0 +1,30 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# IDE
+.vs/
+.vscode/
+.cache/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+compile_commands.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+*.obj
+*.o
+*.pdb
+*.log
+
+# JUCE generated
+JuceLibraryCode/
+
+# Install guide (old)
+INSTALL_GUIDE.md
